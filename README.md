@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iphiow
 - 👀 I’m interested in video and entrepreunariat
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on my futur invention
+- 💞️ I’m looking to collaborate on my invention
 - 📫 How to reach me, RS -> philippe limousy vidéaste
 
 <!---
